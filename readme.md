@@ -150,3 +150,4 @@ Visual Studio Code tasks.json (allows you to execute your tests inside the IDE)
     ]
 }
 
+The tests can also be run via terminal
